@@ -1,0 +1,20 @@
+b 22
+b 3
+i 147|Resident Evil 2|1998|Survival horror|Capcom|PlayStation|
+r 99
+r 230
+i 181|Pac-Man|1980|Maze|Namco|Arcade|
+r 27
+r 43
+r 54
+r 78
+b 147
+b 181
+i 144|The Sims|2000|Life simulation|Electronic Arts|PC|
+i 237|Grand Theft Auto: San Andreas|2004|Action-adventure|Rockstar Games|PlayStation 2|
+i 222|Frogger|1981|Action|Konami/Sega|Arcade|
+r 63
+r 75
+b 237
+b 95
+i 221|The Walking Dead|2012|Adventure|Telltale Games|"PC, PlayStation 3, Xbox 360"|
